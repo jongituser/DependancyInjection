@@ -6,6 +6,9 @@ import java.util.List;
 
 @Component
 public class StudentDaoListImpl implements StudentDao{
+
+    List<Student> students;
+
     @Override
     public Student save(Student student) {
         return null;

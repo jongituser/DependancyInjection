@@ -1,6 +1,6 @@
 package lexicon.se;
 import lexicon.se.config.ComponentScanConfig;
-import lexicon.se.service.UserInputService;
+import lexicon.se.util.UserInputService;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 

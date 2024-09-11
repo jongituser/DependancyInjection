@@ -1,0 +1,30 @@
+<dependencies>
+    <!-- Spring Core Dependency -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-context</artifactId>
+        <version>6.0.12</version>
+    </dependency>
+
+    <!-- Spring Beans Dependency -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-beans</artifactId>
+        <version>6.0.12</version>
+    </dependency>
+
+    <!-- Spring Core Dependency -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-core</artifactId>
+        <version>6.0.12</version>
+    </dependency>
+
+    <!-- Spring Test Dependency (if you need to write tests) -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-test</artifactId>
+        <version>6.0.12</version>
+        <scope>test</scope>
+    </dependency>
+</dependencies>
